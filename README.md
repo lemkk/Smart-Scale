@@ -192,7 +192,6 @@ RAM_START      = 0x20002AE8 # 应用程序 RAM 起始（SoftDevice之后）
 RAM_SIZE       = 0x3D518    # 应用程序可用 RAM（~245KB）
 ```
 
-> **注意**：工程文件 `.emProject` 中 `FLASH_SIZE` 当前仍为 `0xd9000`，需更新为 `0x62000` 以匹配最新分区规划，否则链接器会以旧值为准。
 
 ### 引入 Bootloader 后的变化
 
