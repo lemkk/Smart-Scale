@@ -2,7 +2,7 @@
 
 # Smart Scale BLE 固件
 
-基于 nRF52840 的蓝牙智能体重秤固件，通过 BLE Nordic UART Service（NUS）将重量和电池数据实时推送到手机。
+基于 nRF52840 的蓝牙智能秤固件，通过 BLE Nordic UART Service（NUS）将重量和电池数据实时推送到手机。
 
 ------
 
